@@ -1,0 +1,20 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$24000$G8S9rtX3QNtq$LNa8GeP88LWEHOjv7vyIMb1rRY9yovPXmQov1KZDoJo=",
+    "last_login": "2016-03-07T12:39:08.604Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "deanarmada@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2016-03-07T12:29:23.409Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
